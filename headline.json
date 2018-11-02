@@ -1,13 +1,13 @@
 {
-    "all_sponsors_count": 4918,
-    "due_date_cutoff": "2017-09-03",
-    "due_trials": 7784,
-    "due_trials_with_results": 4001,
-    "due_trials_without_results": 3783,
-    "inconsistent_trials": 9860,
-    "major_sponsors_count": 105,
-    "percent_inconsistent": 29.5,
-    "percent_with_results": 51.4,
-    "scrape_date": "2018-10-01",
-    "total_trials": 33381
+    "all_sponsors_count": 4935,
+    "due_date_cutoff": "2017-10-04",
+    "due_trials": 7846,
+    "due_trials_with_results": 4072,
+    "due_trials_without_results": 3774,
+    "inconsistent_trials": 9917,
+    "major_sponsors_count": 106,
+    "percent_inconsistent": 29.6,
+    "percent_with_results": 51.9,
+    "scrape_date": "2018-11-01",
+    "total_trials": 33524
 }
