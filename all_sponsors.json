@@ -262,11 +262,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 32,
+        "inconsistent_trials": 44,
         "major": 1,
-        "not_yet_due_trials": 18,
+        "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 29.4,
+        "percent_bad_data": 40.4,
         "percent_reported": 81.4,
         "percent_unreported": 18.6,
         "slug": "abbott",
@@ -295,11 +295,11 @@
                 "slug": "stemcentrx-inc"
             }
         ],
-        "inconsistent_trials": 52,
+        "inconsistent_trials": 62,
         "major": 1,
-        "not_yet_due_trials": 112,
+        "not_yet_due_trials": 102,
         "parents": [],
-        "percent_bad_data": 25.9,
+        "percent_bad_data": 30.8,
         "percent_reported": 97.3,
         "percent_unreported": 2.7,
         "slug": "abbvie",
@@ -460,16 +460,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 6,
+        "not_yet_due_trials": 4,
         "parents": [
             {
                 "name": "Sanofi S.A.",
                 "slug": "sanofi-sa"
             }
         ],
-        "percent_bad_data": 25.0,
+        "percent_bad_data": 41.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "ablynx",
@@ -1082,16 +1082,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 37,
+        "inconsistent_trials": 40,
         "major": 1,
-        "not_yet_due_trials": 28,
+        "not_yet_due_trials": 25,
         "parents": [
             {
                 "name": "Johnson & Johnson",
                 "slug": "johnson-johnson"
             }
         ],
-        "percent_bad_data": 44.0,
+        "percent_bad_data": 47.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "actelion-pharmaceuticals-ltd",
@@ -2998,16 +2998,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 22,
+        "inconsistent_trials": 40,
         "major": 1,
-        "not_yet_due_trials": 21,
+        "not_yet_due_trials": 3,
         "parents": [
             {
                 "name": "Novartis",
                 "slug": "novartis"
             }
         ],
-        "percent_bad_data": 28.9,
+        "percent_bad_data": 52.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "alcon",
@@ -3124,11 +3124,11 @@
                 "slug": "wilson-therapeutics-ab"
             }
         ],
-        "inconsistent_trials": 22,
+        "inconsistent_trials": 26,
         "major": 0,
-        "not_yet_due_trials": 19,
+        "not_yet_due_trials": 15,
         "parents": [],
-        "percent_bad_data": 47.8,
+        "percent_bad_data": 56.5,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "alexion-pharmaceuticals-inc",
@@ -3589,11 +3589,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 5,
+        "inconsistent_trials": 6,
         "major": 0,
-        "not_yet_due_trials": 18,
+        "not_yet_due_trials": 17,
         "parents": [],
-        "percent_bad_data": 16.1,
+        "percent_bad_data": 19.4,
         "percent_reported": 25.0,
         "percent_unreported": 75.0,
         "slug": "all-ireland-cooperative-oncology-research-group-icorg",
@@ -3746,11 +3746,11 @@
                 "slug": "warner-chilcott-uk-limited"
             }
         ],
-        "inconsistent_trials": 41,
+        "inconsistent_trials": 44,
         "major": 1,
-        "not_yet_due_trials": 33,
+        "not_yet_due_trials": 30,
         "parents": [],
-        "percent_bad_data": 33.3,
+        "percent_bad_data": 35.8,
         "percent_reported": 93.9,
         "percent_unreported": 6.1,
         "slug": "allergan",
@@ -4342,11 +4342,11 @@
                 "slug": "onyx-therapeutics-inc"
             }
         ],
-        "inconsistent_trials": 110,
+        "inconsistent_trials": 137,
         "major": 1,
-        "not_yet_due_trials": 83,
+        "not_yet_due_trials": 56,
         "parents": [],
-        "percent_bad_data": 43.5,
+        "percent_bad_data": 54.2,
         "percent_reported": 95.0,
         "percent_unreported": 5.0,
         "slug": "amgen-inc",
@@ -4507,16 +4507,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "AstraZeneca",
                 "slug": "astrazeneca"
             }
         ],
-        "percent_bad_data": 50.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "amylin-pharmaceuticals-inc",
@@ -7985,11 +7985,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 3,
         "major": 0,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 1,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 75.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "asklepion-pharmaceuticals-llc",
@@ -8744,11 +8744,11 @@
                 "slug": "prosidion-ltd"
             }
         ],
-        "inconsistent_trials": 70,
+        "inconsistent_trials": 75,
         "major": 1,
-        "not_yet_due_trials": 44,
+        "not_yet_due_trials": 39,
         "parents": [],
-        "percent_bad_data": 49.3,
+        "percent_bad_data": 52.8,
         "percent_reported": 92.9,
         "percent_unreported": 7.1,
         "slug": "astellas",
@@ -8842,11 +8842,11 @@
                 "slug": "zs-pharma-inc"
             }
         ],
-        "inconsistent_trials": 184,
+        "inconsistent_trials": 212,
         "major": 1,
-        "not_yet_due_trials": 211,
+        "not_yet_due_trials": 183,
         "parents": [],
-        "percent_bad_data": 33.2,
+        "percent_bad_data": 38.3,
         "percent_reported": 96.9,
         "percent_unreported": 3.1,
         "slug": "astrazeneca",
@@ -11069,11 +11069,11 @@
                 "slug": "suppremol-gmbh"
             }
         ],
-        "inconsistent_trials": 18,
+        "inconsistent_trials": 19,
         "major": 1,
-        "not_yet_due_trials": 16,
+        "not_yet_due_trials": 15,
         "parents": [],
-        "percent_bad_data": 29.0,
+        "percent_bad_data": 30.6,
         "percent_reported": 60.7,
         "percent_unreported": 39.3,
         "slug": "baxter",
@@ -11098,11 +11098,11 @@
                 "slug": "schering-ag"
             }
         ],
-        "inconsistent_trials": 119,
+        "inconsistent_trials": 140,
         "major": 1,
-        "not_yet_due_trials": 89,
+        "not_yet_due_trials": 68,
         "parents": [],
-        "percent_bad_data": 41.3,
+        "percent_bad_data": 48.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "bayer",
@@ -11759,11 +11759,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 5,
         "parents": [],
-        "percent_bad_data": 18.2,
+        "percent_bad_data": 36.4,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "bio-products-laboratory",
@@ -11918,16 +11918,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "CSL Behring",
                 "slug": "csl-behring"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 33.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "biocsl-pty-ltd",
@@ -13438,11 +13438,11 @@
                 "slug": "unilfarma-lda"
             }
         ],
-        "inconsistent_trials": 154,
+        "inconsistent_trials": 168,
         "major": 1,
-        "not_yet_due_trials": 95,
+        "not_yet_due_trials": 81,
         "parents": [],
-        "percent_bad_data": 43.8,
+        "percent_bad_data": 47.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "boehringer-ingelheim",
@@ -13907,11 +13907,11 @@
                 "slug": "zymogenetics-inc"
             }
         ],
-        "inconsistent_trials": 136,
+        "inconsistent_trials": 161,
         "major": 1,
-        "not_yet_due_trials": 158,
+        "not_yet_due_trials": 133,
         "parents": [],
-        "percent_bad_data": 40.1,
+        "percent_bad_data": 47.5,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "bristol-myers-squibb",
@@ -15452,11 +15452,11 @@
                 "slug": "receptos-inc"
             }
         ],
-        "inconsistent_trials": 48,
+        "inconsistent_trials": 51,
         "major": 1,
-        "not_yet_due_trials": 59,
+        "not_yet_due_trials": 56,
         "parents": [],
-        "percent_bad_data": 40.0,
+        "percent_bad_data": 42.5,
         "percent_reported": 84.6,
         "percent_unreported": 15.4,
         "slug": "celgene",
@@ -15813,11 +15813,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
+        "inconsistent_trials": 6,
         "major": 0,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 28.6,
+        "percent_bad_data": 85.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "cempra-pharmaceuticals-inc",
@@ -17272,11 +17272,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 34,
+        "inconsistent_trials": 37,
         "major": 1,
-        "not_yet_due_trials": 24,
+        "not_yet_due_trials": 21,
         "parents": [],
-        "percent_bad_data": 34.3,
+        "percent_bad_data": 37.4,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "chiesi-farmaceutici-spa",
@@ -17336,11 +17336,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 4,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 55.6,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "childrens-oncology-group",
@@ -18263,11 +18263,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "cincinnati-childrens-hospital-medical-center",
@@ -19418,11 +19418,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "consorzio-per-valutazioni-biologiche-e-farmacologiche",
@@ -19434,11 +19434,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "consorzio-per-valutazioni-biologiche-e-farmacologiche-cvbf",
@@ -20086,11 +20086,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "cristalia-produtos-quimicos-farmaceuticos-ltda",
@@ -20345,11 +20345,11 @@
                 "slug": "seqirus-gmbh"
             }
         ],
-        "inconsistent_trials": 17,
+        "inconsistent_trials": 37,
         "major": 1,
-        "not_yet_due_trials": 33,
+        "not_yet_due_trials": 13,
         "parents": [],
-        "percent_bad_data": 22.1,
+        "percent_bad_data": 48.1,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "csl-behring",
@@ -20398,11 +20398,11 @@
                 "slug": "cell-therapeutics-inc"
             }
         ],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 1,
         "parents": [],
-        "percent_bad_data": 60.0,
+        "percent_bad_data": 80.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "cti-biopharma",
@@ -20987,11 +20987,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "daids",
@@ -21012,11 +21012,11 @@
                 "slug": "roxro-pharma-inc"
             }
         ],
-        "inconsistent_trials": 30,
+        "inconsistent_trials": 33,
         "major": 1,
-        "not_yet_due_trials": 24,
+        "not_yet_due_trials": 21,
         "parents": [],
-        "percent_bad_data": 43.5,
+        "percent_bad_data": 47.8,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "daiichi-sankyo",
@@ -21081,11 +21081,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "dalhousie-university",
@@ -21561,11 +21561,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
+        "inconsistent_trials": 3,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 14.3,
+        "percent_bad_data": 21.4,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "debiopharm-group",
@@ -22775,16 +22775,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 1,
         "parents": [
             {
                 "name": "Valeant",
                 "slug": "valeant"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 44.4,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "dow-pharmaceutical-sciences",
@@ -23865,11 +23865,11 @@
                 "slug": "morphotek-inc"
             }
         ],
-        "inconsistent_trials": 49,
+        "inconsistent_trials": 74,
         "major": 1,
-        "not_yet_due_trials": 55,
+        "not_yet_due_trials": 30,
         "parents": [],
-        "percent_bad_data": 41.2,
+        "percent_bad_data": 62.2,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "eisai-inc",
@@ -24046,11 +24046,11 @@
                 "slug": "structural-genomix"
             }
         ],
-        "inconsistent_trials": 167,
+        "inconsistent_trials": 175,
         "major": 1,
-        "not_yet_due_trials": 132,
+        "not_yet_due_trials": 124,
         "parents": [],
-        "percent_bad_data": 42.3,
+        "percent_bad_data": 44.3,
         "percent_reported": 96.9,
         "percent_unreported": 3.1,
         "slug": "eli-lilly",
@@ -26511,11 +26511,11 @@
                 "slug": "novag-sa"
             }
         ],
-        "inconsistent_trials": 4,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 26.7,
+        "percent_bad_data": 33.3,
         "percent_reported": 25.0,
         "percent_unreported": 75.0,
         "slug": "ferrer-internacional-sa",
@@ -28497,16 +28497,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 10,
+        "inconsistent_trials": 12,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 5,
         "parents": [
             {
                 "name": "Astellas",
                 "slug": "astellas"
             }
         ],
-        "percent_bad_data": 52.6,
+        "percent_bad_data": 63.2,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "fujisawa-gmbh",
@@ -31318,11 +31318,11 @@
                 "slug": "ymbiosciences-inc"
             }
         ],
-        "inconsistent_trials": 91,
+        "inconsistent_trials": 124,
         "major": 1,
-        "not_yet_due_trials": 94,
+        "not_yet_due_trials": 61,
         "parents": [],
-        "percent_bad_data": 40.3,
+        "percent_bad_data": 54.9,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "gilead-sciences-inc",
@@ -31415,11 +31415,11 @@
                 "slug": "stiefel-laboratories"
             }
         ],
-        "inconsistent_trials": 364,
+        "inconsistent_trials": 571,
         "major": 1,
-        "not_yet_due_trials": 407,
+        "not_yet_due_trials": 200,
         "parents": [],
-        "percent_bad_data": 33.6,
+        "percent_bad_data": 52.7,
         "percent_reported": 99.7,
         "percent_unreported": 0.3,
         "slug": "glaxosmithkline",
@@ -32213,11 +32213,11 @@
                 "slug": "formenti"
             }
         ],
-        "inconsistent_trials": 17,
+        "inconsistent_trials": 18,
         "major": 0,
-        "not_yet_due_trials": 8,
+        "not_yet_due_trials": 7,
         "parents": [],
-        "percent_bad_data": 38.6,
+        "percent_bad_data": 40.9,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "grunenthal-gmbh",
@@ -34856,11 +34856,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "hk-clinical-trials",
@@ -35126,16 +35126,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 6,
+        "not_yet_due_trials": 1,
         "parents": [
             {
                 "name": "Horizon Pharma",
                 "slug": "horizon-pharma"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 71.4,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "horizon-therapeutics-inc",
@@ -35184,16 +35184,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 6,
+        "not_yet_due_trials": 2,
         "parents": [
             {
                 "name": "Pfizer",
                 "slug": "pfizer"
             }
         ],
-        "percent_bad_data": 14.3,
+        "percent_bad_data": 71.4,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "hospira-inc",
@@ -38254,11 +38254,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 19,
+        "not_yet_due_trials": 18,
         "parents": [],
-        "percent_bad_data": 12.5,
+        "percent_bad_data": 16.7,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "inserm",
@@ -39516,16 +39516,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 6,
+        "inconsistent_trials": 8,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 1,
         "parents": [
             {
                 "name": "Valneva",
                 "slug": "valneva"
             }
         ],
-        "percent_bad_data": 31.6,
+        "percent_bad_data": 42.1,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "intercell-ag",
@@ -39867,11 +39867,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 5,
+        "inconsistent_trials": 7,
         "major": 0,
-        "not_yet_due_trials": 15,
+        "not_yet_due_trials": 13,
         "parents": [],
-        "percent_bad_data": 20.0,
+        "percent_bad_data": 28.0,
         "percent_reported": 40.0,
         "percent_unreported": 60.0,
         "slug": "ionis-pharmaceuticals",
@@ -41349,11 +41349,11 @@
                 "slug": "gentium"
             }
         ],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 8,
         "parents": [],
-        "percent_bad_data": 18.8,
+        "percent_bad_data": 25.0,
         "percent_reported": 75.0,
         "percent_unreported": 25.0,
         "slug": "jazz-pharmaceuticals-inc",
@@ -42037,11 +42037,11 @@
                 "slug": "tibotec-pharmaceuticals"
             }
         ],
-        "inconsistent_trials": 170,
+        "inconsistent_trials": 205,
         "major": 1,
-        "not_yet_due_trials": 167,
+        "not_yet_due_trials": 132,
         "parents": [],
-        "percent_bad_data": 37.7,
+        "percent_bad_data": 45.5,
         "percent_reported": 98.2,
         "percent_unreported": 1.8,
         "slug": "johnson-johnson",
@@ -43172,16 +43172,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "Pfizer",
                 "slug": "pfizer"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "kabi-pharmacia-sa",
@@ -46259,11 +46259,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 6,
+        "inconsistent_trials": 8,
         "major": 0,
-        "not_yet_due_trials": 11,
+        "not_yet_due_trials": 9,
         "parents": [],
-        "percent_bad_data": 28.6,
+        "percent_bad_data": 38.1,
         "percent_reported": 75.0,
         "percent_unreported": 25.0,
         "slug": "lfb-biotechnologies",
@@ -46749,11 +46749,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "locemia-solutions-ulc",
@@ -49427,16 +49427,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 4,
+        "inconsistent_trials": 7,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 2,
         "parents": [
             {
                 "name": "Mylan",
                 "slug": "mylan"
             }
         ],
-        "percent_bad_data": 33.3,
+        "percent_bad_data": 58.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "meda-pharmaceuticals",
@@ -49874,16 +49874,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "Valeant",
                 "slug": "valeant"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "medicis-pharmaceutical-corporation",
@@ -50108,16 +50108,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 3,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "Mylan",
                 "slug": "mylan"
             }
         ],
-        "percent_bad_data": 33.3,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "medpointe-pharmaceuticals",
@@ -50368,11 +50368,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 29,
+        "inconsistent_trials": 30,
         "major": 1,
-        "not_yet_due_trials": 13,
+        "not_yet_due_trials": 12,
         "parents": [],
-        "percent_bad_data": 44.6,
+        "percent_bad_data": 46.2,
         "percent_reported": 95.7,
         "percent_unreported": 4.3,
         "slug": "menarini-group",
@@ -50564,11 +50564,11 @@
                 "slug": "seven-seas-limited"
             }
         ],
-        "inconsistent_trials": 72,
+        "inconsistent_trials": 78,
         "major": 1,
-        "not_yet_due_trials": 48,
+        "not_yet_due_trials": 42,
         "parents": [],
-        "percent_bad_data": 46.5,
+        "percent_bad_data": 50.3,
         "percent_reported": 94.3,
         "percent_unreported": 5.7,
         "slug": "merck-kgaa",
@@ -50601,11 +50601,11 @@
                 "slug": "idenix-pharmaceuticals-inc"
             }
         ],
-        "inconsistent_trials": 274,
+        "inconsistent_trials": 376,
         "major": 1,
-        "not_yet_due_trials": 255,
+        "not_yet_due_trials": 153,
         "parents": [],
-        "percent_bad_data": 39.3,
+        "percent_bad_data": 53.9,
         "percent_reported": 92.9,
         "percent_unreported": 7.1,
         "slug": "merck-sharp-dohme-msd",
@@ -50761,11 +50761,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 8,
+        "inconsistent_trials": 13,
         "major": 0,
-        "not_yet_due_trials": 8,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 21.6,
+        "percent_bad_data": 35.1,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "merz-pharmaceuticals",
@@ -51033,16 +51033,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 2,
+        "inconsistent_trials": 3,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 1,
         "parents": [
             {
                 "name": "Amgen Inc",
                 "slug": "amgen-inc"
             }
         ],
-        "percent_bad_data": 50.0,
+        "percent_bad_data": 75.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "micromet-ag",
@@ -52895,11 +52895,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 6,
+        "inconsistent_trials": 22,
         "major": 0,
-        "not_yet_due_trials": 27,
+        "not_yet_due_trials": 11,
         "parents": [],
-        "percent_bad_data": 16.7,
+        "percent_bad_data": 61.1,
         "percent_reported": 33.3,
         "percent_unreported": 66.7,
         "slug": "national-institutes-of-health-nih",
@@ -53119,11 +53119,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "nemours-childrens-clinic",
@@ -53430,11 +53430,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 2,
         "parents": [],
-        "percent_bad_data": 20.0,
+        "percent_bad_data": 40.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "neurim-pharmaceuticals",
@@ -53711,11 +53711,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "neurophyxia-bv",
@@ -54380,11 +54380,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 29,
+        "inconsistent_trials": 31,
         "major": 1,
-        "not_yet_due_trials": 133,
+        "not_yet_due_trials": 131,
         "parents": [],
-        "percent_bad_data": 15.2,
+        "percent_bad_data": 16.2,
         "percent_reported": 31.0,
         "percent_unreported": 69.0,
         "slug": "no-sponsor-name-given",
@@ -55219,11 +55219,11 @@
                 "slug": "spinifex-pharmaceuticals-pty-ltd"
             }
         ],
-        "inconsistent_trials": 393,
+        "inconsistent_trials": 473,
         "major": 1,
-        "not_yet_due_trials": 422,
+        "not_yet_due_trials": 342,
         "parents": [],
-        "percent_bad_data": 29.7,
+        "percent_bad_data": 35.7,
         "percent_reported": 96.1,
         "percent_unreported": 3.9,
         "slug": "novartis",
@@ -55235,16 +55235,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 33,
+        "inconsistent_trials": 80,
         "major": 1,
-        "not_yet_due_trials": 65,
+        "not_yet_due_trials": 18,
         "parents": [
             {
                 "name": "GlaxoSmithKline",
                 "slug": "glaxosmithkline"
             }
         ],
-        "percent_bad_data": 23.2,
+        "percent_bad_data": 56.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "novartis-vaccines",
@@ -55471,11 +55471,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 94,
+        "inconsistent_trials": 101,
         "major": 1,
-        "not_yet_due_trials": 64,
+        "not_yet_due_trials": 57,
         "parents": [],
-        "percent_bad_data": 43.5,
+        "percent_bad_data": 46.8,
         "percent_reported": 98.3,
         "percent_unreported": 1.7,
         "slug": "novo-nordisk",
@@ -55874,11 +55874,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 9,
+        "inconsistent_trials": 11,
         "major": 0,
-        "not_yet_due_trials": 14,
+        "not_yet_due_trials": 12,
         "parents": [],
-        "percent_bad_data": 24.3,
+        "percent_bad_data": 29.7,
         "percent_reported": 85.7,
         "percent_unreported": 14.3,
         "slug": "octapharma-ag",
@@ -56560,11 +56560,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 25.0,
+        "percent_bad_data": 41.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "ono-pharmaceutical-co-ltd",
@@ -57105,11 +57105,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 9,
+        "inconsistent_trials": 10,
         "major": 0,
-        "not_yet_due_trials": 10,
+        "not_yet_due_trials": 9,
         "parents": [],
-        "percent_bad_data": 28.1,
+        "percent_bad_data": 31.2,
         "percent_reported": 92.3,
         "percent_unreported": 7.7,
         "slug": "orion-corporation",
@@ -57647,11 +57647,11 @@
                 "slug": "avanir-pharmaceuticals-inc"
             }
         ],
-        "inconsistent_trials": 21,
+        "inconsistent_trials": 27,
         "major": 1,
-        "not_yet_due_trials": 16,
+        "not_yet_due_trials": 10,
         "parents": [],
-        "percent_bad_data": 31.8,
+        "percent_bad_data": 40.9,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "otsuka",
@@ -58541,11 +58541,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "paxvax-inc",
@@ -58610,11 +58610,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "pediatric-brain-tumour-consortium",
@@ -59232,11 +59232,11 @@
                 "slug": "pharmacia-upjohn-sa"
             }
         ],
-        "inconsistent_trials": 335,
+        "inconsistent_trials": 439,
         "major": 1,
-        "not_yet_due_trials": 252,
+        "not_yet_due_trials": 148,
         "parents": [],
-        "percent_bad_data": 43.8,
+        "percent_bad_data": 57.4,
         "percent_reported": 98.9,
         "percent_unreported": 1.1,
         "slug": "pfizer",
@@ -59424,16 +59424,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "Pfizer",
                 "slug": "pfizer"
             }
         ],
-        "percent_bad_data": 33.3,
+        "percent_bad_data": 66.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "pharmacia-upjohn-sa",
@@ -60035,11 +60035,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 4,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 37.5,
+        "percent_bad_data": 50.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "photocure-asa",
@@ -61376,11 +61376,11 @@
                 "slug": "cytonet-gmbh-co-kg"
             }
         ],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 16.7,
+        "percent_bad_data": 33.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "promethera-biosciences",
@@ -61671,11 +61671,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 3,
         "major": 0,
-        "not_yet_due_trials": 12,
+        "not_yet_due_trials": 9,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 25.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "protalix",
@@ -61751,11 +61751,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "proveca-ltd",
@@ -63247,11 +63247,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 13,
+        "inconsistent_trials": 15,
         "major": 0,
-        "not_yet_due_trials": 26,
+        "not_yet_due_trials": 24,
         "parents": [],
-        "percent_bad_data": 26.5,
+        "percent_bad_data": 30.6,
         "percent_reported": 80.0,
         "percent_unreported": 20.0,
         "slug": "regeneron-pharmaceuticals-inc",
@@ -64547,11 +64547,11 @@
                 "slug": "trophos"
             }
         ],
-        "inconsistent_trials": 272,
+        "inconsistent_trials": 293,
         "major": 1,
-        "not_yet_due_trials": 242,
+        "not_yet_due_trials": 221,
         "parents": [],
-        "percent_bad_data": 42.6,
+        "percent_bad_data": 45.9,
         "percent_reported": 88.0,
         "percent_unreported": 12.0,
         "slug": "roche",
@@ -65394,16 +65394,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 12,
+        "inconsistent_trials": 13,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 6,
         "parents": [
             {
                 "name": "Novartis",
                 "slug": "novartis"
             }
         ],
-        "percent_bad_data": 36.4,
+        "percent_bad_data": 39.4,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "sandoz",
@@ -65645,11 +65645,11 @@
                 "slug": "zentiva-as"
             }
         ],
-        "inconsistent_trials": 221,
+        "inconsistent_trials": 362,
         "major": 1,
-        "not_yet_due_trials": 269,
+        "not_yet_due_trials": 128,
         "parents": [],
-        "percent_bad_data": 36.2,
+        "percent_bad_data": 59.2,
         "percent_reported": 99.2,
         "percent_unreported": 0.8,
         "slug": "sanofi-sa",
@@ -65661,11 +65661,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "sanol-gmbh",
@@ -65910,11 +65910,11 @@
                 "slug": "avi-biopharma-inc"
             }
         ],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 4,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 55.6,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "sarepta-therapeutics-inc",
@@ -66629,16 +66629,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 1,
         "parents": [
             {
                 "name": "CSL Behring",
                 "slug": "csl-behring"
             }
         ],
-        "percent_bad_data": 37.5,
+        "percent_bad_data": 62.5,
         "percent_reported": 50.0,
         "percent_unreported": 50.0,
         "slug": "seqirus-gmbh",
@@ -67113,11 +67113,11 @@
                 "slug": "viropharma-incorporated"
             }
         ],
-        "inconsistent_trials": 41,
+        "inconsistent_trials": 45,
         "major": 1,
-        "not_yet_due_trials": 43,
+        "not_yet_due_trials": 39,
         "parents": [],
-        "percent_bad_data": 39.4,
+        "percent_bad_data": 43.3,
         "percent_reported": 80.0,
         "percent_unreported": 20.0,
         "slug": "shire",
@@ -67239,16 +67239,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 12,
+        "inconsistent_trials": 13,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 4,
         "parents": [
             {
                 "name": "Alfasigma",
                 "slug": "alfasigma"
             }
         ],
-        "percent_bad_data": 54.5,
+        "percent_bad_data": 59.1,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "sigma-tau",
@@ -68771,11 +68771,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "spark-therapeutics-inc",
@@ -69449,11 +69449,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 12.5,
+        "percent_bad_data": 25.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "statens-serum-institut",
@@ -70385,16 +70385,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 7,
         "major": 0,
-        "not_yet_due_trials": 14,
+        "not_yet_due_trials": 10,
         "parents": [
             {
                 "name": "Dainippon Sumitomo Pharma",
                 "slug": "dainippon-sumitomo-pharma"
             }
         ],
-        "percent_bad_data": 11.1,
+        "percent_bad_data": 25.9,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "sunovion-pharmaceuticals-inc",
@@ -70592,11 +70592,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 3,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 5,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 18.8,
+        "percent_bad_data": 31.2,
         "percent_reported": 87.5,
         "percent_unreported": 12.5,
         "slug": "swedish-orphan-biovitrum-ab",
@@ -70640,11 +70640,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "swiss-federal-institute-of-technology-in-lausanne",
@@ -71145,11 +71145,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "t1d-exchange-clinic-network-coordinating-center",
@@ -71218,11 +71218,11 @@
                 "slug": "tap-pharmaceutical-products-inc"
             }
         ],
-        "inconsistent_trials": 69,
+        "inconsistent_trials": 75,
         "major": 1,
-        "not_yet_due_trials": 65,
+        "not_yet_due_trials": 59,
         "parents": [],
-        "percent_bad_data": 37.7,
+        "percent_bad_data": 41.0,
         "percent_reported": 98.0,
         "percent_unreported": 2.0,
         "slug": "takeda",
@@ -72073,11 +72073,11 @@
                 "slug": "ratiopharm-gmbh"
             }
         ],
-        "inconsistent_trials": 38,
+        "inconsistent_trials": 39,
         "major": 1,
-        "not_yet_due_trials": 15,
+        "not_yet_due_trials": 14,
         "parents": [],
-        "percent_bad_data": 45.2,
+        "percent_bad_data": 46.4,
         "percent_reported": 90.3,
         "percent_unreported": 9.7,
         "slug": "teva",
@@ -72131,16 +72131,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "SUN Pharmaceuticals",
                 "slug": "sun-pharmaceuticals"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "thallion-pharmaceuticals-inc",
@@ -72517,11 +72517,11 @@
                 "slug": "targanta-therapeutics-corporation"
             }
         ],
-        "inconsistent_trials": 10,
+        "inconsistent_trials": 12,
         "major": 0,
-        "not_yet_due_trials": 7,
+        "not_yet_due_trials": 5,
         "parents": [],
-        "percent_bad_data": 41.7,
+        "percent_bad_data": 50.0,
         "percent_reported": 28.6,
         "percent_unreported": 71.4,
         "slug": "the-medicines-company",
@@ -73034,11 +73034,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 4,
+        "inconsistent_trials": 5,
         "major": 0,
-        "not_yet_due_trials": 4,
+        "not_yet_due_trials": 3,
         "parents": [],
-        "percent_bad_data": 44.4,
+        "percent_bad_data": 55.6,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "theravance-inc",
@@ -73311,16 +73311,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 29,
+        "inconsistent_trials": 33,
         "major": 0,
-        "not_yet_due_trials": 13,
+        "not_yet_due_trials": 9,
         "parents": [
             {
                 "name": "Johnson & Johnson",
                 "slug": "johnson-johnson"
             }
         ],
-        "percent_bad_data": 59.2,
+        "percent_bad_data": 67.3,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "tibotec-pharmaceuticals",
@@ -73910,11 +73910,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "tr-pharm",
@@ -74488,11 +74488,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 63,
+        "inconsistent_trials": 103,
         "major": 1,
-        "not_yet_due_trials": 85,
+        "not_yet_due_trials": 45,
         "parents": [],
-        "percent_bad_data": 33.0,
+        "percent_bad_data": 53.9,
         "percent_reported": 88.4,
         "percent_unreported": 11.6,
         "slug": "ucb",
@@ -74642,11 +74642,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 6,
+        "inconsistent_trials": 9,
         "major": 0,
-        "not_yet_due_trials": 9,
+        "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 33.3,
+        "percent_bad_data": 50.0,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "ultragenyx-pharmaceutial-inc",
@@ -77948,16 +77948,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [
             {
                 "name": "Unclear Sponsor Name Given",
                 "slug": "unclear-sponsor-name-given"
             }
         ],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "unclear-sponsor-name-given-medicines-development-infectious-diseases",
@@ -79635,16 +79635,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 23,
+        "inconsistent_trials": 24,
         "major": 0,
-        "not_yet_due_trials": 10,
+        "not_yet_due_trials": 9,
         "parents": [
             {
                 "name": "Boehringer Ingelheim",
                 "slug": "boehringer-ingelheim"
             }
         ],
-        "percent_bad_data": 59.0,
+        "percent_bad_data": 61.5,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "unilfarma-lda",
@@ -81581,11 +81581,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "university-of-pennsylvania",
@@ -81821,11 +81821,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 100.0,
         "percent_reported": NaN,
         "percent_unreported": NaN,
         "slug": "university-of-tasmania",
@@ -83119,11 +83119,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 25,
+        "inconsistent_trials": 32,
         "major": 1,
-        "not_yet_due_trials": 26,
+        "not_yet_due_trials": 19,
         "parents": [],
-        "percent_bad_data": 34.2,
+        "percent_bad_data": 43.8,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "vertex-pharmaceuticals-inc",
