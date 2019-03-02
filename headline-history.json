@@ -208,5 +208,18 @@
         "percent_with_results": 54.1,
         "scrape_date": "2019-02-01",
         "total_trials": 34063
+    },
+    "2019-03-01": {
+        "all_sponsors_count": 5004,
+        "due_date_cutoff": "2018-02-01",
+        "due_trials": 8377,
+        "due_trials_with_results": 4615,
+        "due_trials_without_results": 3762,
+        "inconsistent_trials": 9816,
+        "major_sponsors_count": 108,
+        "percent_inconsistent": 28.6,
+        "percent_with_results": 55.1,
+        "scrape_date": "2019-03-01",
+        "total_trials": 34265
     }
 }
