@@ -507,5 +507,18 @@
         "percent_with_results": 68.8,
         "scrape_date": "2021-01-01",
         "total_trials": 37728
+    },
+    "2021-02-01": {
+        "all_sponsors_count": 5540,
+        "due_date_cutoff": "2020-01-05",
+        "due_trials": 13357,
+        "due_trials_with_results": 9199,
+        "due_trials_without_results": 4158,
+        "inconsistent_trials": 9470,
+        "major_sponsors_count": 129,
+        "percent_inconsistent": 24.4,
+        "percent_with_results": 68.9,
+        "scrape_date": "2021-02-01",
+        "total_trials": 38833
     }
 }
