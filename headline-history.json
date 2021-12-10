@@ -626,16 +626,16 @@
         "total_trials": 40783
     },
     "2021-11-06": {
-        "all_sponsors_count": 5778,
+        "all_sponsors_count": 5793,
         "due_date_cutoff": "2020-10-09T00:00:00",
-        "due_trials": 15593,
-        "due_trials_with_results": 11928,
-        "due_trials_without_results": 3665,
-        "inconsistent_trials": 8613,
-        "major_sponsors_count": 135,
+        "due_trials": 15683,
+        "due_trials_with_results": 12141,
+        "due_trials_without_results": 3542,
+        "inconsistent_trials": 8655,
+        "major_sponsors_count": 136,
         "percent_inconsistent": 21.0,
-        "percent_with_results": 76.5,
+        "percent_with_results": 77.4,
         "scrape_date": "2021-11-06",
-        "total_trials": 41000
+        "total_trials": 41131
     }
 }
