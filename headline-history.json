@@ -627,7 +627,7 @@
     },
     "2021-11-06": {
         "all_sponsors_count": 5793,
-        "due_date_cutoff": "2020-11-11T00:00:00",
+        "due_date_cutoff": "2020-10-09T00:00:00",
         "due_trials": 15683,
         "due_trials_with_results": 12141,
         "due_trials_without_results": 3542,
