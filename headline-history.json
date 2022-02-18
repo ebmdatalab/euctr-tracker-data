@@ -676,5 +676,18 @@
         "percent_with_results": 79.0,
         "scrape_date": "2022-02-05",
         "total_trials": 41291
+    },
+    "2022-02-17": {
+        "all_sponsors_count": 5835,
+        "due_date_cutoff": "2021-01-20T00:00:00",
+        "due_trials": 17150,
+        "due_trials_with_results": 13711,
+        "due_trials_without_results": 3439,
+        "inconsistent_trials": 7530,
+        "major_sponsors_count": 136,
+        "percent_inconsistent": 18.1,
+        "percent_with_results": 79.9,
+        "scrape_date": "2022-02-17",
+        "total_trials": 41516
     }
 }
