@@ -949,5 +949,18 @@
         "percent_with_results": 84.0,
         "scrape_date": "2023-11-04",
         "total_trials": 43775
+    },
+    "2023-12-02": {
+        "all_sponsors_count": 6123,
+        "due_date_cutoff": "2022-11-04T00:00:00",
+        "due_trials": 20202,
+        "due_trials_with_results": 16970,
+        "due_trials_without_results": 3232,
+        "inconsistent_trials": 8115,
+        "major_sponsors_count": 140,
+        "percent_inconsistent": 18.5,
+        "percent_with_results": 84.0,
+        "scrape_date": "2023-12-02",
+        "total_trials": 43785
     }
 }
