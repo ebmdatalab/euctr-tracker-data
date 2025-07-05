@@ -1183,5 +1183,18 @@
         "percent_with_results": 80.0,
         "scrape_date": "2025-06-07",
         "total_trials": 44340
+    },
+    "2025-07-05": {
+        "all_sponsors_count": 6170,
+        "due_date_cutoff": "2024-06-07T00:00:00",
+        "due_trials": 22849,
+        "due_trials_with_results": 18277,
+        "due_trials_without_results": 4572,
+        "inconsistent_trials": 9627,
+        "major_sponsors_count": 144,
+        "percent_inconsistent": 21.7,
+        "percent_with_results": 80.0,
+        "scrape_date": "2025-07-05",
+        "total_trials": 44346
     }
 }
