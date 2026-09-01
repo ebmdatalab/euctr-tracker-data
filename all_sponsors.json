@@ -407,11 +407,11 @@
                 "slug": "warner-chilcott-uk-limited"
             }
         ],
-        "inconsistent_trials": 71,
+        "inconsistent_trials": 72,
         "major": 1,
-        "not_yet_due_trials": 52,
+        "not_yet_due_trials": 51,
         "parents": [],
-        "percent_bad_data": 26.2,
+        "percent_bad_data": 26.6,
         "percent_reported": 99.3,
         "percent_unreported": 0.7,
         "slug": "abbvie",
@@ -545,14 +545,14 @@
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 75.0,
-        "percent_reported": 50.0,
-        "percent_unreported": 50.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "abiogen-pharma-spa",
         "sponsor_name": "Abiogen Pharma SpA",
         "total_due": 2,
-        "total_reported": 1,
+        "total_reported": 2,
         "total_trials": 8,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -3577,11 +3577,11 @@
                 "slug": "biodel-inc"
             }
         ],
-        "inconsistent_trials": 0,
+        "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 3,
+        "not_yet_due_trials": 2,
         "parents": [],
-        "percent_bad_data": 0.0,
+        "percent_bad_data": 12.5,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "albireo-ab",
@@ -14223,14 +14223,14 @@
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": 50.0,
-        "percent_unreported": 50.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "belgian-inflammatory-bowel-disease-research-and-development-bird",
         "sponsor_name": "Belgian Inflammatory Bowel Disease Research and Development (BIRD)",
         "total_due": 2,
-        "total_reported": 1,
+        "total_reported": 2,
         "total_trials": 3,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -15562,14 +15562,14 @@
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": 0.0,
-        "percent_unreported": 100.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "biomin-as",
         "sponsor_name": "Biomin AS",
         "total_due": 1,
-        "total_reported": 0,
+        "total_reported": 1,
         "total_trials": 1,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [
@@ -21481,14 +21481,14 @@
         "not_yet_due_trials": 20,
         "parents": [],
         "percent_bad_data": 4.2,
-        "percent_reported": 99.5,
-        "percent_unreported": 0.5,
+        "percent_reported": 98.9,
+        "percent_unreported": 1.1,
         "slug": "charite-universitatsmedizin-berlin",
         "sponsor_name": "Charit\u00e9-Universit\u00e4tsmedizin Berlin",
-        "total_due": 185,
+        "total_due": 186,
         "total_reported": 184,
-        "total_trials": 214,
-        "total_unreported": 1
+        "total_trials": 215,
+        "total_unreported": 2
     },
     {
         "children": [],
@@ -26440,11 +26440,11 @@
                 "slug": "roxro-pharma-inc"
             }
         ],
-        "inconsistent_trials": 24,
+        "inconsistent_trials": 25,
         "major": 1,
-        "not_yet_due_trials": 12,
+        "not_yet_due_trials": 11,
         "parents": [],
-        "percent_bad_data": 27.9,
+        "percent_bad_data": 29.1,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "daiichi-sankyo",
@@ -33360,14 +33360,14 @@
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": 0.0,
-        "percent_unreported": 100.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "finn-gustafsson",
         "sponsor_name": "Finn Gustafsson",
         "total_due": 1,
-        "total_reported": 0,
+        "total_reported": 1,
         "total_trials": 1,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -35235,14 +35235,14 @@
         "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 8.3,
-        "percent_reported": 27.3,
-        "percent_unreported": 72.7,
+        "percent_reported": 36.4,
+        "percent_unreported": 63.6,
         "slug": "fraunhofer-gesellschaft",
         "sponsor_name": "Fraunhofer Gesellschaft",
         "total_due": 11,
-        "total_reported": 3,
+        "total_reported": 4,
         "total_trials": 12,
-        "total_unreported": 8
+        "total_unreported": 7
     },
     {
         "children": [],
@@ -38454,14 +38454,14 @@
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 12.5,
-        "percent_reported": 50.0,
-        "percent_unreported": 50.0,
+        "percent_reported": 66.7,
+        "percent_unreported": 33.3,
         "slug": "german-cancer-research-center-dkfz",
         "sponsor_name": "German Cancer Research Center (DKFZ)",
         "total_due": 6,
-        "total_reported": 3,
+        "total_reported": 4,
         "total_trials": 8,
-        "total_unreported": 3
+        "total_unreported": 2
     },
     {
         "children": [],
@@ -38875,18 +38875,18 @@
                 "slug": "ymbiosciences-inc"
             }
         ],
-        "inconsistent_trials": 73,
+        "inconsistent_trials": 74,
         "major": 1,
         "not_yet_due_trials": 20,
         "parents": [],
-        "percent_bad_data": 26.9,
+        "percent_bad_data": 27.2,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "gilead-sciences-inc",
         "sponsor_name": "Gilead Sciences Inc",
         "total_due": 178,
         "total_reported": 178,
-        "total_trials": 271,
+        "total_trials": 272,
         "total_unreported": 0
     },
     {
@@ -39004,18 +39004,18 @@
                 "slug": "stiefel-laboratories"
             }
         ],
-        "inconsistent_trials": 379,
+        "inconsistent_trials": 380,
         "major": 1,
         "not_yet_due_trials": 86,
         "parents": [],
-        "percent_bad_data": 31.5,
+        "percent_bad_data": 31.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "glaxosmithkline",
         "sponsor_name": "GlaxoSmithKline",
         "total_due": 737,
         "total_reported": 737,
-        "total_trials": 1202,
+        "total_trials": 1203,
         "total_unreported": 0
     },
     {
@@ -39304,17 +39304,17 @@
         "children": [],
         "inconsistent_trials": 3,
         "major": 1,
-        "not_yet_due_trials": 18,
+        "not_yet_due_trials": 15,
         "parents": [],
         "percent_bad_data": 5.8,
-        "percent_reported": 80.6,
-        "percent_unreported": 19.4,
+        "percent_reported": 73.5,
+        "percent_unreported": 26.5,
         "slug": "goethe-university",
         "sponsor_name": "Goethe University",
-        "total_due": 31,
+        "total_due": 34,
         "total_reported": 25,
         "total_trials": 52,
-        "total_unreported": 6
+        "total_unreported": 9
     },
     {
         "children": [],
@@ -39963,11 +39963,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 1,
+        "inconsistent_trials": 2,
         "major": 0,
-        "not_yet_due_trials": 2,
+        "not_yet_due_trials": 1,
         "parents": [],
-        "percent_bad_data": 25.0,
+        "percent_bad_data": 50.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "groupe-hospitalier-paris-saint-joseph",
@@ -47776,14 +47776,14 @@
         "not_yet_due_trials": 5,
         "parents": [],
         "percent_bad_data": 23.1,
-        "percent_reported": 40.0,
-        "percent_unreported": 60.0,
+        "percent_reported": 60.0,
+        "percent_unreported": 40.0,
         "slug": "institut-de-cancerologie-de-louest",
         "sponsor_name": "Institut de Canc\u00e9rologie de l'Ouest",
         "total_due": 5,
-        "total_reported": 2,
+        "total_reported": 3,
         "total_trials": 13,
-        "total_unreported": 3
+        "total_unreported": 2
     },
     {
         "children": [],
@@ -49342,14 +49342,14 @@
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 0.0,
-        "percent_reported": 75.0,
-        "percent_unreported": 25.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "inventiva-sa",
         "sponsor_name": "Inventiva S.A.",
         "total_due": 4,
-        "total_reported": 3,
+        "total_reported": 4,
         "total_trials": 5,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -49998,11 +49998,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 6,
+        "inconsistent_trials": 7,
         "major": 0,
-        "not_yet_due_trials": 13,
+        "not_yet_due_trials": 12,
         "parents": [],
-        "percent_bad_data": 30.0,
+        "percent_bad_data": 35.0,
         "percent_reported": 0.0,
         "percent_unreported": 100.0,
         "slug": "isala-clinics",
@@ -51973,14 +51973,14 @@
         "not_yet_due_trials": 10,
         "parents": [],
         "percent_bad_data": 13.2,
-        "percent_reported": 72.2,
-        "percent_unreported": 27.8,
+        "percent_reported": 75.0,
+        "percent_unreported": 25.0,
         "slug": "johannes-gutenberg-university-of-mainz",
         "sponsor_name": "Johannes Gutenberg University of Mainz",
         "total_due": 36,
-        "total_reported": 26,
+        "total_reported": 27,
         "total_trials": 53,
-        "total_unreported": 10
+        "total_unreported": 9
     },
     {
         "children": [],
@@ -55362,19 +55362,19 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 16,
+        "inconsistent_trials": 15,
         "major": 1,
         "not_yet_due_trials": 23,
         "parents": [],
-        "percent_bad_data": 5.6,
-        "percent_reported": 95.2,
-        "percent_unreported": 4.8,
+        "percent_bad_data": 5.2,
+        "percent_reported": 94.8,
+        "percent_unreported": 5.2,
         "slug": "ku-leuven",
         "sponsor_name": "KU Leuven",
-        "total_due": 249,
+        "total_due": 250,
         "total_reported": 237,
         "total_trials": 288,
-        "total_unreported": 12
+        "total_unreported": 13
     },
     {
         "children": [],
@@ -65361,18 +65361,18 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 30,
+        "inconsistent_trials": 31,
         "major": 0,
         "not_yet_due_trials": 6,
         "parents": [],
-        "percent_bad_data": 63.8,
+        "percent_bad_data": 64.6,
         "percent_reported": 81.8,
         "percent_unreported": 18.2,
         "slug": "national-institutes-of-health-nih",
         "sponsor_name": "National Institutes of Health (NIH)",
         "total_due": 11,
         "total_reported": 9,
-        "total_trials": 47,
+        "total_trials": 48,
         "total_unreported": 2
     },
     {
@@ -68383,9 +68383,9 @@
                 "slug": "spinifex-pharmaceuticals-pty-ltd"
             }
         ],
-        "inconsistent_trials": 351,
+        "inconsistent_trials": 352,
         "major": 1,
-        "not_yet_due_trials": 170,
+        "not_yet_due_trials": 169,
         "parents": [],
         "percent_bad_data": 22.6,
         "percent_reported": 100.0,
@@ -71086,17 +71086,17 @@
         "children": [],
         "inconsistent_trials": 35,
         "major": 1,
-        "not_yet_due_trials": 41,
+        "not_yet_due_trials": 40,
         "parents": [],
         "percent_bad_data": 28.0,
-        "percent_reported": 32.7,
-        "percent_unreported": 67.3,
+        "percent_reported": 32.0,
+        "percent_unreported": 68.0,
         "slug": "oslo-university-hospital",
         "sponsor_name": "Oslo University Hospital",
-        "total_due": 49,
+        "total_due": 50,
         "total_reported": 16,
         "total_trials": 125,
-        "total_unreported": 33
+        "total_unreported": 34
     },
     {
         "children": [],
@@ -77101,16 +77101,16 @@
         "children": [],
         "inconsistent_trials": 4,
         "major": 1,
-        "not_yet_due_trials": 18,
+        "not_yet_due_trials": 19,
         "parents": [],
-        "percent_bad_data": 6.2,
+        "percent_bad_data": 6.1,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "queen-mary-university-of-london",
         "sponsor_name": "Queen Mary University of London",
         "total_due": 43,
         "total_reported": 43,
-        "total_trials": 65,
+        "total_trials": 66,
         "total_unreported": 0
     },
     {
@@ -81354,7 +81354,7 @@
                 "slug": "zentiva-as"
             }
         ],
-        "inconsistent_trials": 300,
+        "inconsistent_trials": 301,
         "major": 1,
         "not_yet_due_trials": 54,
         "parents": [],
@@ -81365,7 +81365,7 @@
         "sponsor_name": "Sanofi S.A.",
         "total_due": 422,
         "total_reported": 422,
-        "total_trials": 776,
+        "total_trials": 777,
         "total_unreported": 0
     },
     {
@@ -83025,16 +83025,16 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 24,
+        "inconsistent_trials": 25,
         "major": 1,
-        "not_yet_due_trials": 11,
+        "not_yet_due_trials": 10,
         "parents": [
             {
                 "name": "Takeda",
                 "slug": "takeda"
             }
         ],
-        "percent_bad_data": 20.9,
+        "percent_bad_data": 21.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "shire",
@@ -92118,11 +92118,11 @@
     },
     {
         "children": [],
-        "inconsistent_trials": 93,
+        "inconsistent_trials": 94,
         "major": 1,
-        "not_yet_due_trials": 19,
+        "not_yet_due_trials": 18,
         "parents": [],
-        "percent_bad_data": 38.6,
+        "percent_bad_data": 39.0,
         "percent_reported": 98.4,
         "percent_unreported": 1.6,
         "slug": "ucb",
@@ -98068,14 +98068,14 @@
         "not_yet_due_trials": 9,
         "parents": [],
         "percent_bad_data": 15.7,
-        "percent_reported": 35.4,
-        "percent_unreported": 64.6,
+        "percent_reported": 36.6,
+        "percent_unreported": 63.4,
         "slug": "universite-libre-de-bruxelles",
         "sponsor_name": "Universit\u00e9 libre de Bruxelles",
         "total_due": 82,
-        "total_reported": 29,
+        "total_reported": 30,
         "total_trials": 108,
-        "total_unreported": 53
+        "total_unreported": 52
     },
     {
         "children": [],
