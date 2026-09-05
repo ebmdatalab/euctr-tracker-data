@@ -28538,14 +28538,14 @@
         "not_yet_due_trials": 4,
         "parents": [],
         "percent_bad_data": 10.4,
-        "percent_reported": 94.9,
-        "percent_unreported": 5.1,
+        "percent_reported": 97.4,
+        "percent_unreported": 2.6,
         "slug": "dr-falk-pharma",
         "sponsor_name": "Dr. Falk Pharma",
         "total_due": 39,
-        "total_reported": 37,
+        "total_reported": 38,
         "total_trials": 48,
-        "total_unreported": 2
+        "total_unreported": 1
     },
     {
         "children": [],
@@ -39004,11 +39004,11 @@
                 "slug": "stiefel-laboratories"
             }
         ],
-        "inconsistent_trials": 380,
+        "inconsistent_trials": 381,
         "major": 1,
-        "not_yet_due_trials": 86,
+        "not_yet_due_trials": 85,
         "parents": [],
-        "percent_bad_data": 31.6,
+        "percent_bad_data": 31.7,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "glaxosmithkline",
@@ -39304,17 +39304,17 @@
         "children": [],
         "inconsistent_trials": 3,
         "major": 1,
-        "not_yet_due_trials": 15,
+        "not_yet_due_trials": 14,
         "parents": [],
         "percent_bad_data": 5.8,
-        "percent_reported": 73.5,
-        "percent_unreported": 26.5,
+        "percent_reported": 71.4,
+        "percent_unreported": 28.6,
         "slug": "goethe-university",
         "sponsor_name": "Goethe University",
-        "total_due": 34,
+        "total_due": 35,
         "total_reported": 25,
         "total_trials": 52,
-        "total_unreported": 9
+        "total_unreported": 10
     },
     {
         "children": [],
@@ -40922,14 +40922,14 @@
         "not_yet_due_trials": 29,
         "parents": [],
         "percent_bad_data": 3.7,
-        "percent_reported": 98.0,
-        "percent_unreported": 2.0,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "guys-and-st-thomas-nhs-foundation-trust",
         "sponsor_name": "Guy's and St Thomas' NHS Foundation Trust",
         "total_due": 50,
-        "total_reported": 49,
+        "total_reported": 50,
         "total_trials": 82,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -47537,14 +47537,14 @@
         "not_yet_due_trials": 5,
         "parents": [],
         "percent_bad_data": 62.5,
-        "percent_reported": 85.7,
-        "percent_unreported": 14.3,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "inserm",
         "sponsor_name": "Inserm",
         "total_due": 7,
-        "total_reported": 6,
+        "total_reported": 7,
         "total_trials": 32,
-        "total_unreported": 1
+        "total_unreported": 0
     },
     {
         "children": [],
@@ -78235,18 +78235,18 @@
                 "slug": "decibel-therapeutics"
             }
         ],
-        "inconsistent_trials": 30,
+        "inconsistent_trials": 31,
         "major": 1,
         "not_yet_due_trials": 21,
         "parents": [],
-        "percent_bad_data": 31.9,
+        "percent_bad_data": 32.6,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "regeneron-pharmaceuticals-inc",
         "sponsor_name": "Regeneron Pharmaceuticals Inc.",
         "total_due": 43,
         "total_reported": 43,
-        "total_trials": 94,
+        "total_trials": 95,
         "total_unreported": 0
     },
     {
@@ -80118,11 +80118,11 @@
                 "slug": "trophos"
             }
         ],
-        "inconsistent_trials": 207,
+        "inconsistent_trials": 208,
         "major": 1,
-        "not_yet_due_trials": 157,
+        "not_yet_due_trials": 156,
         "parents": [],
-        "percent_bad_data": 25.6,
+        "percent_bad_data": 25.7,
         "percent_reported": 99.1,
         "percent_unreported": 0.9,
         "slug": "roche",
@@ -83677,14 +83677,14 @@
         "not_yet_due_trials": 1,
         "parents": [],
         "percent_bad_data": 9.1,
-        "percent_reported": 11.1,
-        "percent_unreported": 88.9,
+        "percent_reported": 22.2,
+        "percent_unreported": 77.8,
         "slug": "sla-pharma",
         "sponsor_name": "SLA Pharma",
         "total_due": 9,
-        "total_reported": 1,
+        "total_reported": 2,
         "total_trials": 11,
-        "total_unreported": 8
+        "total_unreported": 7
     },
     {
         "children": [
@@ -85325,15 +85325,15 @@
         "children": [],
         "inconsistent_trials": 1,
         "major": 0,
-        "not_yet_due_trials": 1,
+        "not_yet_due_trials": 0,
         "parents": [],
         "percent_bad_data": 50.0,
-        "percent_reported": NaN,
-        "percent_unreported": NaN,
+        "percent_reported": 100.0,
+        "percent_unreported": 0.0,
         "slug": "springworks-therapeutics",
         "sponsor_name": "SpringWorks Therapeutics",
-        "total_due": 0,
-        "total_reported": 0,
+        "total_due": 1,
+        "total_reported": 1,
         "total_trials": 2,
         "total_unreported": 0
     },
@@ -88134,18 +88134,18 @@
                 "slug": "viropharma-incorporated"
             }
         ],
-        "inconsistent_trials": 67,
+        "inconsistent_trials": 68,
         "major": 1,
         "not_yet_due_trials": 31,
         "parents": [],
-        "percent_bad_data": 25.2,
+        "percent_bad_data": 25.5,
         "percent_reported": 100.0,
         "percent_unreported": 0.0,
         "slug": "takeda",
         "sponsor_name": "Takeda",
         "total_due": 168,
         "total_reported": 168,
-        "total_trials": 266,
+        "total_trials": 267,
         "total_unreported": 0
     },
     {
@@ -99625,14 +99625,14 @@
         "not_yet_due_trials": 21,
         "parents": [],
         "percent_bad_data": 9.4,
-        "percent_reported": 69.6,
-        "percent_unreported": 30.4,
+        "percent_reported": 76.8,
+        "percent_unreported": 23.2,
         "slug": "university-of-munich-ludwig-maximilians",
         "sponsor_name": "University of Munich (Ludwig-Maximilians)",
         "total_due": 56,
-        "total_reported": 39,
+        "total_reported": 43,
         "total_trials": 85,
-        "total_unreported": 17
+        "total_unreported": 13
     },
     {
         "children": [],
@@ -104515,14 +104515,14 @@
             }
         ],
         "percent_bad_data": 8.8,
-        "percent_reported": 72.0,
-        "percent_unreported": 28.0,
+        "percent_reported": 76.0,
+        "percent_unreported": 24.0,
         "slug": "zealand-university-hospital",
         "sponsor_name": "Zealand University Hospital",
         "total_due": 25,
-        "total_reported": 18,
+        "total_reported": 19,
         "total_trials": 34,
-        "total_unreported": 7
+        "total_unreported": 6
     },
     {
         "children": [],
